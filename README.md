@@ -21,5 +21,5 @@ pip3 install Tensorflow
 Windows 10 may not run because of a 260 character limit on Python installation path:
 
 ```
-s
+https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/
 ```
