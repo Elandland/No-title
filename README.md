@@ -4,6 +4,10 @@ This project is personal project for machine learning study
 
 
 
-# install jupyter
+# Install Jupyter
 
-cmd - > pip3 install jupyter
+pip3 install jupyter
+
+if you get error :
+
+python -m pip3 install upgrade pip3
