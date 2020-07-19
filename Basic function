@@ -1,0 +1,26 @@
+import tensorflow as tf
+
+tf.add 덧셈
+tf.subtract 뺄셈
+tf.multiply 곱셈
+tf.div 나눗셈의 몫
+tf.mod 나눗셈의 나머지
+tf.abs 절댓값
+tf.nagative 음수값
+tf.sign 부호
+tf.reciprocol 역수
+tf.square 제곱
+tf.round 반올림
+tf.sqrt 제곱근
+tf.pow 거듭제곱
+tf.exp 지수
+tf.log 로그
+tf.maximum 최대값
+tf.minimum 최솟값
+tf.cos 코사인
+tf.sin 사인
+tf.diag 대각행렬
+tf.transpose 전치행렬
+tf.matmul 행렬곱
+tf.matrix_determinant 정방행렬 행렬식
+tf.matrix_inverse 정방행렬 
