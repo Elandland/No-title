@@ -1,16 +1,15 @@
 #Error log
 
 
-Error 1 2020_07_19
+##Error 1 2020_07_19
 
 import tensorflow as tf
 sess = tf.Session()
-```
+
 ---------------------------------------------------------------------------
 AttributeError                            Traceback (most recent call last)
 <ipython-input-6-f75057d1d95f> in <module>
 ----> 1 sess = tf.Session()
 
 AttributeError: module 'tensorflow' has no attribute 'Session
-```
 
