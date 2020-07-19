@@ -13,3 +13,6 @@ AttributeError                            Traceback (most recent call last)
 
 AttributeError: module 'tensorflow' has no attribute 'Session
 
+
+
+The error was caused by the difference in the version of the tensorflow. For session, do not use tensorflow version 2 or higher.
